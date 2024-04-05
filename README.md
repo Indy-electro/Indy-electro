@@ -1,6 +1,6 @@
- 👋 Hi, I’m @Indy-electro
- 👀 I’m interested in Front-end Development
- 🌱 I’m currently learning HTML e CSS, JAVA e PHP.
+ - 👋 Hi, I’m @Indy-electro
+ - 👀 I’m interested in Front-end Development
+ - 🌱 I’m currently learning HTML e CSS, JAVA e PHP.
 
 
 <!---
