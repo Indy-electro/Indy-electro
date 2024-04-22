@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou Indhira Viana! 👋😊
 
-![Indy Electro](https://github-readme-stats.vercel.app/api?username=indy-electro&show_icons=true&theme=radical)
+![Indy Electro](https://github-readme-stats.vercel.app/api?username=indy-electro&show_icons=true&theme=radical&rank_icon=github)
 
 ## Tecnologias que uso no meu dia
 
@@ -11,6 +11,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 <br>
-<div>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=indy-electro&layout=compact"/>
-</div>
+
