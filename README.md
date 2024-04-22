@@ -10,3 +10,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
+<br>
+<div>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=indy-electro&layout=compact"/>
+</div>
